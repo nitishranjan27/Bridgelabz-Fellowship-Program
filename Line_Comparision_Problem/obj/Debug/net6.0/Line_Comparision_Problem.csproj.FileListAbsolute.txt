@@ -1,0 +1,14 @@
+C:\Users\NITISH KUMAR\source\repos\Line_Comparision_Problem\bin\Debug\net6.0\Line_Comparision_Problem.exe
+C:\Users\NITISH KUMAR\source\repos\Line_Comparision_Problem\bin\Debug\net6.0\Line_Comparision_Problem.deps.json
+C:\Users\NITISH KUMAR\source\repos\Line_Comparision_Problem\bin\Debug\net6.0\Line_Comparision_Problem.runtimeconfig.json
+C:\Users\NITISH KUMAR\source\repos\Line_Comparision_Problem\bin\Debug\net6.0\Line_Comparision_Problem.dll
+C:\Users\NITISH KUMAR\source\repos\Line_Comparision_Problem\bin\Debug\net6.0\ref\Line_Comparision_Problem.dll
+C:\Users\NITISH KUMAR\source\repos\Line_Comparision_Problem\bin\Debug\net6.0\Line_Comparision_Problem.pdb
+C:\Users\NITISH KUMAR\source\repos\Line_Comparision_Problem\obj\Debug\net6.0\Line_Comparision_Problem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NITISH KUMAR\source\repos\Line_Comparision_Problem\obj\Debug\net6.0\Line_Comparision_Problem.AssemblyInfoInputs.cache
+C:\Users\NITISH KUMAR\source\repos\Line_Comparision_Problem\obj\Debug\net6.0\Line_Comparision_Problem.AssemblyInfo.cs
+C:\Users\NITISH KUMAR\source\repos\Line_Comparision_Problem\obj\Debug\net6.0\Line_Comparision_Problem.csproj.CoreCompileInputs.cache
+C:\Users\NITISH KUMAR\source\repos\Line_Comparision_Problem\obj\Debug\net6.0\Line_Comparision_Problem.dll
+C:\Users\NITISH KUMAR\source\repos\Line_Comparision_Problem\obj\Debug\net6.0\ref\Line_Comparision_Problem.dll
+C:\Users\NITISH KUMAR\source\repos\Line_Comparision_Problem\obj\Debug\net6.0\Line_Comparision_Problem.pdb
+C:\Users\NITISH KUMAR\source\repos\Line_Comparision_Problem\obj\Debug\net6.0\Line_Comparision_Problem.genruntimeconfig.cache
