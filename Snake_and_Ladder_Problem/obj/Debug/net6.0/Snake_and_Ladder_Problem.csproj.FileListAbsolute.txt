@@ -1,0 +1,15 @@
+C:\Users\NITISH KUMAR\source\repos\Snake_and_Ladder_Problem\bin\Debug\net6.0\Snake_and_Ladder_Problem.exe
+C:\Users\NITISH KUMAR\source\repos\Snake_and_Ladder_Problem\bin\Debug\net6.0\Snake_and_Ladder_Problem.deps.json
+C:\Users\NITISH KUMAR\source\repos\Snake_and_Ladder_Problem\bin\Debug\net6.0\Snake_and_Ladder_Problem.runtimeconfig.json
+C:\Users\NITISH KUMAR\source\repos\Snake_and_Ladder_Problem\bin\Debug\net6.0\Snake_and_Ladder_Problem.dll
+C:\Users\NITISH KUMAR\source\repos\Snake_and_Ladder_Problem\bin\Debug\net6.0\ref\Snake_and_Ladder_Problem.dll
+C:\Users\NITISH KUMAR\source\repos\Snake_and_Ladder_Problem\bin\Debug\net6.0\Snake_and_Ladder_Problem.pdb
+C:\Users\NITISH KUMAR\source\repos\Snake_and_Ladder_Problem\obj\Debug\net6.0\Snake_and_Ladder_Problem.csproj.AssemblyReference.cache
+C:\Users\NITISH KUMAR\source\repos\Snake_and_Ladder_Problem\obj\Debug\net6.0\Snake_and_Ladder_Problem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NITISH KUMAR\source\repos\Snake_and_Ladder_Problem\obj\Debug\net6.0\Snake_and_Ladder_Problem.AssemblyInfoInputs.cache
+C:\Users\NITISH KUMAR\source\repos\Snake_and_Ladder_Problem\obj\Debug\net6.0\Snake_and_Ladder_Problem.AssemblyInfo.cs
+C:\Users\NITISH KUMAR\source\repos\Snake_and_Ladder_Problem\obj\Debug\net6.0\Snake_and_Ladder_Problem.csproj.CoreCompileInputs.cache
+C:\Users\NITISH KUMAR\source\repos\Snake_and_Ladder_Problem\obj\Debug\net6.0\Snake_and_Ladder_Problem.dll
+C:\Users\NITISH KUMAR\source\repos\Snake_and_Ladder_Problem\obj\Debug\net6.0\ref\Snake_and_Ladder_Problem.dll
+C:\Users\NITISH KUMAR\source\repos\Snake_and_Ladder_Problem\obj\Debug\net6.0\Snake_and_Ladder_Problem.pdb
+C:\Users\NITISH KUMAR\source\repos\Snake_and_Ladder_Problem\obj\Debug\net6.0\Snake_and_Ladder_Problem.genruntimeconfig.cache
