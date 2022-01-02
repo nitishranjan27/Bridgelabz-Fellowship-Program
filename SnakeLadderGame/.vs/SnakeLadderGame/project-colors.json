@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5ed3248a-0049-4e34-bd19-2fc016f55d08": {
+      "ProjectGuid": "5ed3248a-0049-4e34-bd19-2fc016f55d08",
+      "DisplayName": "SnakeLadderGame",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
