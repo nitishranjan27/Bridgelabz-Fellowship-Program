@@ -1,0 +1,15 @@
+C:\Users\NITISH KUMAR\source\repos\BasicProgram\bin\Debug\net6.0\BasicProgram.exe
+C:\Users\NITISH KUMAR\source\repos\BasicProgram\bin\Debug\net6.0\BasicProgram.deps.json
+C:\Users\NITISH KUMAR\source\repos\BasicProgram\bin\Debug\net6.0\BasicProgram.runtimeconfig.json
+C:\Users\NITISH KUMAR\source\repos\BasicProgram\bin\Debug\net6.0\BasicProgram.dll
+C:\Users\NITISH KUMAR\source\repos\BasicProgram\bin\Debug\net6.0\ref\BasicProgram.dll
+C:\Users\NITISH KUMAR\source\repos\BasicProgram\bin\Debug\net6.0\BasicProgram.pdb
+C:\Users\NITISH KUMAR\source\repos\BasicProgram\obj\Debug\net6.0\BasicProgram.csproj.AssemblyReference.cache
+C:\Users\NITISH KUMAR\source\repos\BasicProgram\obj\Debug\net6.0\BasicProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NITISH KUMAR\source\repos\BasicProgram\obj\Debug\net6.0\BasicProgram.AssemblyInfoInputs.cache
+C:\Users\NITISH KUMAR\source\repos\BasicProgram\obj\Debug\net6.0\BasicProgram.AssemblyInfo.cs
+C:\Users\NITISH KUMAR\source\repos\BasicProgram\obj\Debug\net6.0\BasicProgram.csproj.CoreCompileInputs.cache
+C:\Users\NITISH KUMAR\source\repos\BasicProgram\obj\Debug\net6.0\BasicProgram.dll
+C:\Users\NITISH KUMAR\source\repos\BasicProgram\obj\Debug\net6.0\ref\BasicProgram.dll
+C:\Users\NITISH KUMAR\source\repos\BasicProgram\obj\Debug\net6.0\BasicProgram.pdb
+C:\Users\NITISH KUMAR\source\repos\BasicProgram\obj\Debug\net6.0\BasicProgram.genruntimeconfig.cache
