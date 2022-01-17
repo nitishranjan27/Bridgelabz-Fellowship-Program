@@ -1,66 +1,33 @@
-﻿namespace FunctionalPrograms
-{
-    using System;
-    using System.Collections.Generic;
-    using System.Linq;
-    using System.Text;
-    using System.Threading.Tasks;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-    /// <summary>
-    /// The class is to execute the Leap year program
-    /// </summary>
+namespace BasicProgram
+{
     public class LeapYear
     {
-        /// <summary>
-        /// This method checks if the year is leap year
-        /// </summary>
-        public void Leap()
+        public static void Leap_Years()
         {
-            try
+            Console.WriteLine("Enter Year : ");
+            int Year = Convert.ToInt32(Console.ReadLine());
+            if (Year >= 1000 && Year <= 9999)
             {
-                int year;
-                Console.WriteLine("Enter the year to check if it is leap year");
-                try
+                if (((Year % 4 == 0) && (Year % 100 != 0)) || (Year % 400 == 0))
                 {
-                    year = Convert.ToInt32(Console.ReadLine());
-                }
-                catch (Exception e)
-                {
-                    Console.WriteLine(e.Message);
-                    Console.WriteLine("Please try entering value again again");
-#pragma warning disable CS8604 // Possible null reference argument.
-					year = Utility.IsInteger(Console.ReadLine());
-#pragma warning restore CS8604 // Possible null reference argument.
-				}
-                ////checks if the number is of 4 digits
-                while (year < 999 && year > 10000)
-                {
-                    Console.WriteLine(" The year should be a 4 digit number please try again");
-                }
-
-                if (year % 100 == 0)
-                {
-                    if (year % 400 == 0)
-                    {
-                        Console.WriteLine(" The year is a leap year");
-                    }
-                    else
-                    {
-                        Console.WriteLine(" The year is not a leap year");
-                    }
-                }
-                else if (year % 4 == 0)
-                {
-                    Console.WriteLine(" The year is a leap year");
+                    Console.WriteLine("{0} is a Leap Year.", Year);
                 }
                 else
                 {
-                    Console.WriteLine(" The year is not a leap year");
+                    Console.WriteLine("{0} is not a Leap Year.", Year);
                 }
+                Console.ReadLine();
             }
-            catch (Exception e)
+            else
             {
-                Console.WriteLine(e.Message);
+                Console.WriteLine("Enter the 4 digit number");
+                Console.ReadLine();
             }
         }
     }

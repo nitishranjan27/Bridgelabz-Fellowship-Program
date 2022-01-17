@@ -1,41 +1,30 @@
-﻿namespace FunctionalPrograms
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace BasicProgram
 {
-    using System;
-    using System.Collections.Generic;
-    using System.Text;
-
-    /// <summary>
-    /// The class executes the program to print the table of power of 2
-    /// </summary>
-    public class PowerOfTwo
+    class PowerOfTwo
     {
-        /// <summary>
-        /// The method prints the table of each of the powers of 2 until 2^n
-        /// </summary>
-        /// <param name="number">The number.</param>
-        public void PowerTwo(int number)
+        public static void poweroftwo()
         {
-            try
+            int powerofn = 2;
+            Console.WriteLine("...Power of N...");
+            Console.WriteLine("Enter the Value of N:");
+            int Valueofn = Convert.ToInt32(Console.ReadLine());
+            if (Valueofn > 0 && Valueofn < 32)
             {
-                int count1 = 0, count2 = 0, power = 1;
-
-                //// Console.WriteLine("Enter the N to get table of powers of 2 till 2^N");
-                //// number = Utility.IsInteger(Console.ReadLine());
-                for (count2 = 1; count2 <= 10; count2++)
+                for (int i = 1; i <= Valueofn; i++)
                 {
-                    for (count1 = 1; count1 <= number; count1++)
-                    {
-                        power *= 2;
-                        Console.Write(" {0}x{1}={2}", power, count2, power * count2);
-                    }
-
-                    Console.WriteLine();
-                    power = 1;
+                    powerofn = powerofn * 2;
                 }
+                Console.WriteLine("Two to the power of " + Valueofn + " is " + powerofn);
             }
-            catch (Exception e)
+            else
             {
-                Console.WriteLine(e.Message);
+                Console.WriteLine("Enter the number between 0 and 32");
             }
         }
     }

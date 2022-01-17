@@ -1,49 +1,44 @@
-﻿namespace FunctionalPrograms
-{
-    using System;
-    using System.Collections.Generic;
-    using System.Text;
-    using System.Linq;
-    using System.Threading.Tasks;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-    /// <summary>
-    /// The class is to execute the FlipCoin program
-    /// </summary>
+namespace BasicProgram
+{
     public class FlipCoin
     {
-        /// <summary>
-        /// Toss has count to get number of times the coin is tossed
-        /// counter counts till number of times coin is tossed
-        /// heads is number of times head occurred
-        /// tails is number of times tail occurred
-        /// PERHEADS is percentage of times head occurred
-        /// </summary>
-        public void Toss()
+        public static void CoinFlip()
         {
-            try
+            int headsCount = 0, tailsCount = 0;
+            Console.WriteLine("Enter the no of turns");
+            int numberOfTurns = Convert.ToInt32(Console.ReadLine());
+            if (numberOfTurns > 0)
             {
-                int count, counter, heads = 0, perheads = 0;
-                Console.WriteLine("Enter the number of the times the coin is tossed");
-#pragma warning disable CS8604 // Possible null reference argument.
-				count = Utility.IsInteger(Console.ReadLine());
-#pragma warning restore CS8604 // Possible null reference argument.
-							  //// object of random class
-							  //// count till we reach reuired number of tosses
-				for (counter = count; counter > 0; counter--)
+                for (int i = 0; i < numberOfTurns; i++)
                 {
-                    ////generates the random number between 0 and 1               
-                    if (Utility.RandomDoubleGenerator() > 0.5)
+                    Random random = new Random();
+                    double coin = random.NextDouble();
+                    if (coin > 0.5)
                     {
-                        heads++;
+                        headsCount++;
+                    }
+                    else
+                    {
+                        tailsCount++;
                     }
                 }
-
-                perheads = (heads * 100) / count;
-                Console.WriteLine("The percent of head is {0}, and percent of Tails are  {1}", perheads, 100 - perheads);
+                Console.WriteLine("Heads:" + headsCount + "and" + "Tails:" + tailsCount);
+                double headPercentage = (((double)headsCount / numberOfTurns) * 100);
+                double tailPercentage = (((double)tailsCount / numberOfTurns) * 100);
+                Console.WriteLine("Head Percentage is: " + headPercentage + "%");
+                Console.WriteLine("Tail Percentage is: " + tailPercentage + "%");
+                Console.ReadKey();
             }
-            catch (Exception e)
+            else
             {
-                Console.WriteLine(e.Message);
+                Console.WriteLine("Please enter the valid input");
+                Console.ReadKey();
             }
         }
     }
