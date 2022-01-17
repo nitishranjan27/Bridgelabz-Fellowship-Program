@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "024c683b-96fb-4bb2-9ea7-6c780939ad9f": {
+      "ProjectGuid": "024c683b-96fb-4bb2-9ea7-6c780939ad9f",
+      "DisplayName": "Data_Structure",
+      "ColorIndex": 0
+    },
+    "71c426c1-58b7-487b-b920-9bf9c70ca9c6": {
+      "ProjectGuid": "71c426c1-58b7-487b-b920-9bf9c70ca9c6",
+      "DisplayName": "QueueUsingLinkedList",
+      "ColorIndex": 1
+    },
+    "e32df341-15c5-4964-9ee3-0137f17e3da8": {
+      "ProjectGuid": "e32df341-15c5-4964-9ee3-0137f17e3da8",
+      "DisplayName": "StackUsingLinkedList",
+      "ColorIndex": 2
+    },
+    "c2153471-136e-4ef1-8cc7-abf147b6fdf3": {
+      "ProjectGuid": "c2153471-136e-4ef1-8cc7-abf147b6fdf3",
+      "DisplayName": "TicTacToi",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
