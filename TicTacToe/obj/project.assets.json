@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\NITISH KUMAR\\source\\repos\\TicTacToe\\TicTacToeGame.csproj",
-      "projectName": "TicTacToeGame",
-      "projectPath": "C:\\Users\\NITISH KUMAR\\source\\repos\\TicTacToe\\TicTacToeGame.csproj",
+      "projectUniqueName": "C:\\Users\\NITISH KUMAR\\source\\repos\\TicTacToe\\TicTacToe.csproj",
+      "projectName": "TicTacToe",
+      "projectPath": "C:\\Users\\NITISH KUMAR\\source\\repos\\TicTacToe\\TicTacToe.csproj",
       "packagesPath": "C:\\Users\\NITISH KUMAR\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\NITISH KUMAR\\source\\repos\\TicTacToe\\obj\\",
       "projectStyle": "PackageReference",

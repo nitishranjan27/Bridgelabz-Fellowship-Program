@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "TicTacToeGame/1.0.0": {
+      "TicTacToe/1.0.0": {
         "runtime": {
-          "TicTacToeGame.dll": {}
+          "TicTacToe.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "TicTacToeGame/1.0.0": {
+    "TicTacToe/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
