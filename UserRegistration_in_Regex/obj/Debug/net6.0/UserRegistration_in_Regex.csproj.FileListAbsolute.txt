@@ -1,0 +1,15 @@
+C:\Users\NITISH KUMAR\source\repos\UserRegistration_in_Regex\obj\Debug\net6.0\UserRegistration_in_Regex.csproj.AssemblyReference.cache
+C:\Users\NITISH KUMAR\source\repos\UserRegistration_in_Regex\obj\Debug\net6.0\UserRegistration_in_Regex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NITISH KUMAR\source\repos\UserRegistration_in_Regex\obj\Debug\net6.0\UserRegistration_in_Regex.AssemblyInfoInputs.cache
+C:\Users\NITISH KUMAR\source\repos\UserRegistration_in_Regex\obj\Debug\net6.0\UserRegistration_in_Regex.AssemblyInfo.cs
+C:\Users\NITISH KUMAR\source\repos\UserRegistration_in_Regex\obj\Debug\net6.0\UserRegistration_in_Regex.csproj.CoreCompileInputs.cache
+C:\Users\NITISH KUMAR\source\repos\UserRegistration_in_Regex\bin\Debug\net6.0\UserRegistration_in_Regex.exe
+C:\Users\NITISH KUMAR\source\repos\UserRegistration_in_Regex\bin\Debug\net6.0\UserRegistration_in_Regex.deps.json
+C:\Users\NITISH KUMAR\source\repos\UserRegistration_in_Regex\bin\Debug\net6.0\UserRegistration_in_Regex.runtimeconfig.json
+C:\Users\NITISH KUMAR\source\repos\UserRegistration_in_Regex\bin\Debug\net6.0\UserRegistration_in_Regex.dll
+C:\Users\NITISH KUMAR\source\repos\UserRegistration_in_Regex\bin\Debug\net6.0\ref\UserRegistration_in_Regex.dll
+C:\Users\NITISH KUMAR\source\repos\UserRegistration_in_Regex\bin\Debug\net6.0\UserRegistration_in_Regex.pdb
+C:\Users\NITISH KUMAR\source\repos\UserRegistration_in_Regex\obj\Debug\net6.0\UserRegistration_in_Regex.dll
+C:\Users\NITISH KUMAR\source\repos\UserRegistration_in_Regex\obj\Debug\net6.0\ref\UserRegistration_in_Regex.dll
+C:\Users\NITISH KUMAR\source\repos\UserRegistration_in_Regex\obj\Debug\net6.0\UserRegistration_in_Regex.pdb
+C:\Users\NITISH KUMAR\source\repos\UserRegistration_in_Regex\obj\Debug\net6.0\UserRegistration_in_Regex.genruntimeconfig.cache
